@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-fgwavq.idncuan.xyz/sitemap.xml
